@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chow Chun Kei</h1>
-<h3 align="center">A passionate Data Science student from Malaysia</h3>
+<h3 align="center">A passionate Data Science student from Monash University Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ckchow28&label=Profile%20views&color=0e75b6&style=flat" alt="ckchow28" /> </p>
 
